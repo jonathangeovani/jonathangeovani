@@ -1,4 +1,4 @@
-**Hi there** 👋
+# Hello World! 👋
 
 <img src="images/header-img.png"/>
 
