@@ -22,7 +22,7 @@ Tenho trabalhado com várias tecnologias do mundo do desenvolvimento Web para cr
 ## Contatos
 <div>
   <a href = "mailto:dongeovanimenor@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joanathan-geovani" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/jonathan-geovani" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://jonathangeovani.vercel.app" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a> 
 </div>
 
