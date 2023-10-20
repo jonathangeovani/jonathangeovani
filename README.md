@@ -1,7 +1,7 @@
 **Hello world! 👋**
 # Jonathan Geovani
 
-Sou desenvolvedor Fullstack, dedicado à tecnologia há 1 ano, envolvido com a programação e desenvolvimento de código desde os 12 anos, quando comecei a me aventurar com HTML e CSS.
+Sou desenvolvedor Web, dedicado à tecnologia há 1 ano, envolvido com a programação e desenvolvimento de código desde os 12 anos, quando comecei a me aventurar com HTML e CSS.
 
 Atualmente, estou cursando Bacharelado em Sistemas de Informação e trabalho como Freelancer em projetos variados.
 
