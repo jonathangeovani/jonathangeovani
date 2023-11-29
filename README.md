@@ -27,6 +27,6 @@ Tenho trabalhado com várias tecnologias do mundo do desenvolvimento Web para cr
 </div>
 
 ## Linguagens mais utilizadas
-<a href="https://github.com/jonathan-geovani">
+<a href="https://github.com/jonathangeovani">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathangeovani&layout=compact&langs_count=7&theme=dracula"/>
 </a>
