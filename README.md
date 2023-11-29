@@ -1,13 +1,11 @@
-**Hello world! 👋**
+**Olá, mundo! 👋 Eu sou o**
 # Jonathan Geovani
 
 Sou desenvolvedor Web, dedicado à tecnologia há 1 ano, envolvido com a programação e desenvolvimento de código desde os 12 anos, quando comecei a me aventurar com HTML e CSS.
 
-Atualmente, estou cursando Bacharelado em Sistemas de Informação e trabalho como Freelancer em projetos variados.
-
 ## Principais Ferramentas e Tecnologias
 
-Tenho trabalhado com várias tecnologias do mundo do desenvolvimento Web para criar aplicações responsivas completas, desde o Front-end até o Back-end.
+Tenho trabalhado com diversas tecnologias para criar aplicações responsivas e completas, desde o Back-end até o Front-end.
 
 ### Front End
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
