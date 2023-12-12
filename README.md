@@ -7,7 +7,7 @@ Sou Desenvolvedor Web, apaixonado por tecnologia e por criar experiências digit
 <br /><br />
 Minha experiência abrange tanto o desenvolvimento Front end quanto Back end, utilizando uma variedade de linguagens e frameworks.
 <br /> <br />
-Vamos nos conectar? <a href="https://linkedin.com/in/jonathan-geovani">@jonathangeovani</a>
+Vamos nos conectar? <a href="https://linkedin.com/in/jonathan-geovani" target="_blank">@jonathangeovani</a>
 </p>
 
 ## Principais Ferramentas e Tecnologias
