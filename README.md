@@ -1,7 +1,14 @@
-**Olá, mundo! 👋 Eu sou o**
+**Olá, mundo! 👋**
 # Jonathan Geovani
+<img src="./images/coding.svg" width="240" align="right">
 
-Sou desenvolvedor Web, dedicado à tecnologia há 1 ano, envolvido com a programação e desenvolvimento de código desde os 12 anos, quando comecei a me aventurar com HTML e CSS.
+<p align="justify">
+Sou Desenvolvedor Web, apaixonado por tecnologia e por criar experiências digitais incríveis. Após ter atuado em diversos projetos, me dedico à construção de websites e aplicações responsivas e dinâmicas.
+<br /><br />
+Minha experiência abrange tanto o desenvolvimento Front end quanto Back end, utilizando uma variedade de linguagens e frameworks.
+<br /> <br />
+Vamos nos conectar? <a href="https://linkedin.com/in/jonathan-geovani">@jonathangeovani</a>
+</p>
 
 ## Principais Ferramentas e Tecnologias
 
